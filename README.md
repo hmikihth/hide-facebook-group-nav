@@ -15,3 +15,4 @@ Hide Facebook group navigation panels
 * Click save
 * Refresh the Facebook
 * Enjoy
+* Say thanks to the blackPanther dev team :)
