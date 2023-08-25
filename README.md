@@ -1,7 +1,7 @@
 # hide-facebook-group-nav
 Hide Facebook group navigation panel
 
-![example](/example.jpg)
+![example](/example.png)
 
 ## Requirements
 * violentmonkey
